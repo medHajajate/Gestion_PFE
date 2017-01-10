@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<PFE>
+	
+<projet>
+		
+<Identifiant/>
+
+<Etudiant>
+	
+	<Nom/>
+		
+	<Prénom/>
+		
+	<Mail/>
+		
+	<Tèlèphone/>
+		
+	<Option/>
+		
+</Etudiant>
+	
+
+<stage>
+			
+<Intitulé/>
+		
+	<DateDébut/>
+		
+	<DateFin/>
+			
+<Organisme>
+				
+<NomOraganisme/>
+				
+<Contacts>
+					
+        <Telephone>
+
+	<Mail/>
+					
+        <Adresse/>
+			
+</Contacts>
+			
+<Parrain>
+				
+	<NomParrain/>
+					
+        <PrénomParrain/>
+				
+	<Fonction/>
+				
+	<Téléphone/>
+				
+	<Mail/>
+			
+</Parrain>
+		
+</Organisme>
+		
+</stage>
+
+		
+<soutenance>
+			
+<Date/>
+			
+<Local/>
+			
+<Jury>
+			
+	<Encadrants/>
+				
+<représentantEntreprise/>
+			
+	<Examinateur/>
+				
+<PrésidentJury/>
+			
+</Jury>
+		
+</soutenance>
+		
+<Encadrants>
+			
+<EncadrantInterne>
+			
+	<Nom/>
+				
+<Prénom/>
+				
+<Mail/>
+				
+<Téléphone/>
+			
+</EncadrantInterne>
+			
+<EncadrantExterne>
+				
+<Nom/>
+				
+<Prénom/>
+				
+<Fonction/>
+				
+<Téléphone/>
+				
+<Mail/>
+			
+</EncadrantExterne>
+	
+</Encadrants>
+
+
+</projet>
+
+</PFE>

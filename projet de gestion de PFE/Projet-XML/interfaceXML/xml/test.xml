@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<continents>
+<europe>
+<pays>France</pays>
+<pays>Belgique</pays>
+<pays>Espagne</pays>
+</europe>
+<asie>
+<pays>Japon</pays>
+<pays>Inde</pays>
+</asie>
+</continents>

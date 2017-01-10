@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2015 rel. 3 sp1 (x64) (http://www.altova.com) by Lagnaoui (Lagnaoui) -->
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/Sofian/Desktop/INE2/S4-INPT/LES%20mini-projets/Dahchour%20xml/sXSL.xsl"?>
+<PFE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/Sofian/Desktop/INE2/S4-INPT/LES%20mini-projets/Dahchour%20xml/ProjetXSD.xsd">
+	<projet ID="123">
+		<Etudiant>
+			<Nom>Lagnaoui</Nom>
+			<Prénom>Soufian</Prénom>
+			<Mail>so.lagnaoui@gmail.com</Mail>
+			<Téléphone>0605813080</Téléphone>
+			<option>ISRT</option>
+		</Etudiant>
+		<stage>
+			<Intitulé>ipv6</Intitulé>
+			<DateDébut>2015-11-12</DateDébut>
+			<DateFin>2016-08-13</DateFin>
+			<Organisme>
+				<NomOrganisme>Astericom</NomOrganisme>
+				<Contacts>
+					<Telephone>06050500</Telephone>
+					<Mail>inpt@gmail.com</Mail>
+					<Adresse>Avenue X</Adresse>
+				</Contacts>
+				<Parrain>
+					<NomParrain>Alami</NomParrain>
+					<PrénomParrain>Mohamed</PrénomParrain>
+					<Fonction>Directeur</Fonction>
+					<Téléphone>06053490</Téléphone>
+					<Mail>alami@wap.ma</Mail>
+				</Parrain>
+			</Organisme>
+		</stage>
+		<soutenance>
+			<Date>2015-06-16T10:30:00</Date>
+			<Local>inpt</Local>
+			<Jury>
+				<Encadrants>bouzidi yousef</Encadrants>
+				<représentantsEntreprise> hafid yassine</représentantsEntreprise>
+				<Examinateur>zyadi mohamed</Examinateur>
+				<présidentJury>khalifa yassine</présidentJury>
+			</Jury>
+		</soutenance>
+		<Encadrants>
+			<EncadrantInterne>
+				<Nom>ben brahim</Nom>
+				<Prénom>mohamed</Prénom>
+				<Fonction>prof</Fonction>
+				<Téléphone>0603345613</Téléphone>
+				<Mail>med@gmail.com</Mail>
+			</EncadrantInterne>
+			<EncadrantExterne>
+				<Nom>yassir</Nom>
+				<Prénom>othmane</Prénom>
+				<Fonction>ingénieur</Fonction>
+				<Téléphone>06053210</Téléphone>
+				<Mail>othmane@inpt.ac.ma</Mail>
+			</EncadrantExterne>
+		</Encadrants>
+	</projet>
+	<projet ID="122">
+		<Etudiant>
+			<Nom>Lagnaoui</Nom>
+			<Prénom>Soufian</Prénom>
+			<Mail>so.lagnaoui@gmail.com</Mail>
+			<Téléphone>0605813080</Téléphone>
+			<option>ISRT</option>
+		</Etudiant>
+		<stage>
+			<Intitulé>Virtualisation</Intitulé>
+			<DateDébut>2015-11-12</DateDébut>
+			<DateFin>2016-08-13</DateFin>
+			<Organisme>
+				<NomOrganisme>Astericom</NomOrganisme>
+				<Contacts>
+					<Telephone>06050500</Telephone>
+					<Mail>inpt@gmail.com</Mail>
+					<Adresse>Avenue X</Adresse>
+				</Contacts>
+				<Parrain>
+					<NomParrain>Alami</NomParrain>
+					<PrénomParrain>Mohamed</PrénomParrain>
+					<Fonction>Directeur</Fonction>
+					<Téléphone>06053490</Téléphone>
+					<Mail>alami@wap.ma</Mail>
+				</Parrain>
+			</Organisme>
+		</stage>
+		<soutenance>
+			<Date>2015-06-16T10:30:00</Date>
+			<Local>inpt</Local>
+			<Jury>
+				<Encadrants>bouzidi yousef</Encadrants>
+				<représentantsEntreprise> hafid yassine</représentantsEntreprise>
+				<Examinateur>zyadi mohamed</Examinateur>
+				<présidentJury>khalifa yassine</présidentJury>
+			</Jury>
+		</soutenance>
+		<Encadrants>
+			<EncadrantInterne>
+				<Nom>ben brahim</Nom>
+				<Prénom>mohamed</Prénom>
+				<Fonction>prof</Fonction>
+				<Téléphone>0603345613</Téléphone>
+				<Mail>med@gmail.com</Mail>
+			</EncadrantInterne>
+			<EncadrantExterne>
+				<Nom>yassir</Nom>
+				<Prénom>othmane</Prénom>
+				<Fonction>ingénieur</Fonction>
+				<Téléphone>06053210</Téléphone>
+				<Mail>othmane@inpt.ac.ma</Mail>
+			</EncadrantExterne>
+		</Encadrants>
+	</projet>
+	
+	
+	<projet ID="123">
+		<Etudiant>
+			<Nom>Lagnaoui</Nom>
+			<Prénom>Soufian</Prénom>
+			<Mail>so.lagnaoui@gmail.com</Mail>
+			<Téléphone>0605813080</Téléphone>
+			<option>ISRT</option>
+		</Etudiant>
+		<stage>
+			<Intitulé>ipv6</Intitulé>
+			<DateDébut>2015-11-12</DateDébut>
+			<DateFin>2016-08-13</DateFin>
+			<Organisme>
+				<NomOrganisme>Astericom</NomOrganisme>
+				<Contacts>
+					<Telephone>06050500</Telephone>
+					<Mail>inpt@gmail.com</Mail>
+					<Adresse>Avenue X</Adresse>
+				</Contacts>
+				<Parrain>
+					<NomParrain>Alami</NomParrain>
+					<PrénomParrain>Mohamed</PrénomParrain>
+					<Fonction>Directeur</Fonction>
+					<Téléphone>06053490</Téléphone>
+					<Mail>alami@wap.ma</Mail>
+				</Parrain>
+			</Organisme>
+		</stage>
+		<soutenance>
+			<Date>2015-06-16T10:30:00</Date>
+			<Local>inpt</Local>
+			<Jury>
+				<Encadrants>bouzidi yousef</Encadrants>
+				<représentantsEntreprise> hafid yassine</représentantsEntreprise>
+				<Examinateur>zyadi mohamed</Examinateur>
+				<présidentJury>khalifa yassine</présidentJury>
+			</Jury>
+		</soutenance>
+		<Encadrants>
+			<EncadrantInterne>
+				<Nom>ben brahim</Nom>
+				<Prénom>mohamed</Prénom>
+				<Fonction>prof</Fonction>
+				<Téléphone>0603345613</Téléphone>
+				<Mail>med@gmail.com</Mail>
+			</EncadrantInterne>
+			<EncadrantExterne>
+				<Nom>yassir</Nom>
+				<Prénom>othmane</Prénom>
+				<Fonction>ingénieur</Fonction>
+				<Téléphone>06053210</Téléphone>
+				<Mail>othmane@inpt.ac.ma</Mail>
+			</EncadrantExterne>
+		</Encadrants>
+	</projet>
+	
+	
+	<projet ID="124">
+		<Etudiant>
+			<Nom>Lagnaoui</Nom>
+			<Prénom>Soufian</Prénom>
+			<Mail>so.lagnaoui@gmail.com</Mail>
+			<Téléphone>0605813080</Téléphone>
+			<option>ISRT</option>
+		</Etudiant>
+		<stage>
+			<Intitulé>ipv6</Intitulé>
+			<DateDébut>2015-11-12</DateDébut>
+			<DateFin>2016-08-13</DateFin>
+			<Organisme>
+				<NomOrganisme>Astericom</NomOrganisme>
+				<Contacts>
+					<Telephone>06050500</Telephone>
+					<Mail>inpt@gmail.com</Mail>
+					<Adresse>Avenue X</Adresse>
+				</Contacts>
+				<Parrain>
+					<NomParrain>Alami</NomParrain>
+					<PrénomParrain>Mohamed</PrénomParrain>
+					<Fonction>Directeur</Fonction>
+					<Téléphone>06053490</Téléphone>
+					<Mail>alami@wap.ma</Mail>
+				</Parrain>
+			</Organisme>
+		</stage>
+		<soutenance>
+			<Date>2015-06-16T10:30:00</Date>
+			<Local>inpt</Local>
+			<Jury>
+				<Encadrants>bouzidi yousef</Encadrants>
+				<représentantsEntreprise> hafid yassine</représentantsEntreprise>
+				<Examinateur>zyadi mohamed</Examinateur>
+				<présidentJury>khalifa yassine</présidentJury>
+			</Jury>
+		</soutenance>
+		<Encadrants>
+			<EncadrantInterne>
+				<Nom>ben brahim</Nom>
+				<Prénom>mohamed</Prénom>
+				<Fonction>prof</Fonction>
+				<Téléphone>0603345613</Téléphone>
+				<Mail>med@gmail.com</Mail>
+			</EncadrantInterne>
+			<EncadrantExterne>
+				<Nom>yassir</Nom>
+				<Prénom>othmane</Prénom>
+				<Fonction>ingénieur</Fonction>
+				<Téléphone>06053210</Téléphone>
+				<Mail>othmane@inpt.ac.ma</Mail>
+			</EncadrantExterne>
+		</Encadrants>
+	</projet>
+	
+	
+	<projet ID="125">
+		<Etudiant>
+			<Nom>Lagnaoui</Nom>
+			<Prénom>Soufian</Prénom>
+			<Mail>so.lagnaoui@gmail.com</Mail>
+			<Téléphone>0605813080</Téléphone>
+			<option>ISRT</option>
+		</Etudiant>
+		<stage>
+			<Intitulé>ipv6</Intitulé>
+			<DateDébut>2015-11-12</DateDébut>
+			<DateFin>2016-08-13</DateFin>
+			<Organisme>
+				<NomOrganisme>Astericom</NomOrganisme>
+				<Contacts>
+					<Telephone>06050500</Telephone>
+					<Mail>inpt@gmail.com</Mail>
+					<Adresse>Avenue X</Adresse>
+				</Contacts>
+				<Parrain>
+					<NomParrain>Alami</NomParrain>
+					<PrénomParrain>Mohamed</PrénomParrain>
+					<Fonction>Directeur</Fonction>
+					<Téléphone>06053490</Téléphone>
+					<Mail>alami@wap.ma</Mail>
+				</Parrain>
+			</Organisme>
+		</stage>
+		<soutenance>
+			<Date>2015-06-16T10:30:00</Date>
+			<Local>inpt</Local>
+			<Jury>
+				<Encadrants>bouzidi yousef</Encadrants>
+				<représentantsEntreprise> hafid yassine</représentantsEntreprise>
+				<Examinateur>zyadi mohamed</Examinateur>
+				<présidentJury>khalifa yassine</présidentJury>
+			</Jury>
+		</soutenance>
+		<Encadrants>
+			<EncadrantInterne>
+				<Nom>ben brahim</Nom>
+				<Prénom>mohamed</Prénom>
+				<Fonction>prof</Fonction>
+				<Téléphone>0603345613</Téléphone>
+				<Mail>med@gmail.com</Mail>
+			</EncadrantInterne>
+			<EncadrantExterne>
+				<Nom>yassir</Nom>
+				<Prénom>othmane</Prénom>
+				<Fonction>ingénieur</Fonction>
+				<Téléphone>06053210</Téléphone>
+				<Mail>othmane@inpt.ac.ma</Mail>
+			</EncadrantExterne>
+		</Encadrants>
+	</projet>
+	
+</PFE>
